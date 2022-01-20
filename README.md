@@ -9,9 +9,6 @@
 
 ### 🔌 Connect with me:
 <p>
-  <a style="text-decoration: none;" href="https://ShamiulBashir.github.io" target="blank" title="Personal Portfolio">
-    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="20" width="30" />
-  </a>
   <a style="text-decoration: none;" href="https://www.linkedin.com/in/a-t-m-shamiul-bashir-745b1922a/" target="blank" title="LinkedIn">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="30" />
   </a>
