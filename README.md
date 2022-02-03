@@ -1,8 +1,8 @@
 
 <h3>Hi! 👋<br>I'm A.T.M Shamiul Bashir<br>Odoo Developer at Daffodil Software Limited</h3>
-<h6>I build <a href="https://shamiul.engineer/portfolio">websites</a>, create <a href="https://shamiul.engineer/blog">content</a>, design <a href="https://shamiul.engineer/portfolio">graphics</a>, <a href="https://shamiul.engineer/book-a-consultation">strategize</a> and sell <a href="https://shamiul.engineer/store">digital products</a>.</h6>
+<h6>I build <a href="https://shamiulbashir.github.io">websites</a>, create <a href="https://shamiulbashir.github.io">content</a>, design <a href="https://shamiulbashir.github.io">graphics</a>, <a href="https://shamiulbashir.github.io">strategize</a> and sell <a href="https://shamiulbashir.github.io">digital products</a>.</h6>
 
-![website](https://img.shields.io/website?label=shamiul.engineer&style=for-the-badge&url=https%3A%2F%2Fjeshadkhan.com)
+![website](https://img.shields.io/website?label=shamiulbashir.github.io&style=for-the-badge&url=https%3A%2F%2Fshamiulbashir.github.io)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Tshamiul?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 ---
