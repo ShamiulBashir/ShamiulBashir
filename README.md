@@ -60,7 +60,7 @@
 
 ---
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ShamiulBashir&theme=react-dark&hide_border=true&color=#d22626&line=6E93B5&point=#d22626)
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ShamiulBashir&theme=react-dark&hide_border=true&color=D22626&line=6E93B5&point=D22626)
 
 <br>
 
