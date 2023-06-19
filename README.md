@@ -1,5 +1,5 @@
 
-<h3>Hi! 👋<br>I'm A.T.M Shamiul Bashir<br>Odoo Developer at Daffodil Software Limited</h3>
+<h3>Hi! 👋<br>I'm A.T.M Shamiul Bashir<br>Software Engineer at Gram Unnayan Karma - GUK.</h3>
 <h6>I build <a href="https://shamiulbashir.github.io">websites</a>, create <a href="https://shamiulbashir.github.io">content</a>, design <a href="https://shamiulbashir.github.io">graphics</a>, <a href="https://shamiulbashir.github.io">strategize</a> and sell <a href="https://shamiulbashir.github.io">digital products</a>.</h6>
 
 ![website](https://img.shields.io/website?label=shamiulbashir.github.io&style=for-the-badge&url=https%3A%2F%2Fshamiulbashir.github.io)
